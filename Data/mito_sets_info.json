@@ -1,0 +1,17 @@
+{
+	"file": "https://raw.githubusercontent.com/aleksicmil/mito_sets/master/Data/mito_sets.csv",
+	"name": "Mitochondrial proteins",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [{
+		"type": "id",
+		"index": 0,
+		"name": "ID"
+	}],
+	"sets": [{
+		"format": "binary",
+		"start": 1,
+		"end": 5
+	}]
+}
