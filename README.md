@@ -14,6 +14,6 @@
 
 **Using UpSet Web apllication**
 
-  *The web application can be accessed from https://goo.gl/huJAJe
-  *Loading a JSON file from Data folder of mito_sets project (mito_sets_info.json) allows interactive usage of UpSet tool
+  * The web application can be accessed from https://goo.gl/huJAJe
+  * Loading a JSON file from Data folder of mito_sets project (mito_sets_info.json) allows interactive usage of UpSet tool
   
